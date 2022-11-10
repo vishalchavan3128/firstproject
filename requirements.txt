@@ -5,3 +5,5 @@ Type option
 Colors
 Vibrant
 
+dark mode
+Video Call
